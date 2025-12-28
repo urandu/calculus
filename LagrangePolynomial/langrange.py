@@ -1,6 +1,6 @@
 def lagrange_interpolation(x_points, y_points, x):
     """
-    Perform Lagrange interpolation.
+    Perform Lagrange interpolation
     
     Parameters:
     x_points : list of known x-values
